@@ -1,7 +1,8 @@
 <!-- <h1 align="center"> Hi there 👋 </h1> -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> <img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!)](#) 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!)](#) 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> -->
 
 <!-- Right table -->
 
