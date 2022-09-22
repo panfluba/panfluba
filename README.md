@@ -12,6 +12,9 @@
     <tr><td><p align="center"> ☁️ Minsk, Belarus ☁️ </td></tr>
 </table>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+
 #### 📚 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffcd00.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![C++](https://img.shields.io/badge/c++-3765ab.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -46,8 +49,7 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=panfluba&theme=material-palenight)
 
