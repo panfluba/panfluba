@@ -19,14 +19,21 @@
 <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
 
 
+<!-- Links -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91209785/191745823-abda2fff-31ff-4ca7-8a15-d4cd2df7ba01.gif">
 
-![6E2il0JR](https://user-images.githubusercontent.com/91209785/191745823-abda2fff-31ff-4ca7-8a15-d4cd2df7ba01.gif)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/lyubov-panfilova-55068b243/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/lubo0ow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.twitch.tv/balabonya"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+<a href="https://www.panfluba@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white)](#) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white)](#) -->
 
 
 #### 📚 Languages
