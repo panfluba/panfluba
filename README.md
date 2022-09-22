@@ -1,5 +1,6 @@
 <!-- <h1 align="center"> Hi there 👋 </h1> -->
-<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> <img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!"></a>
+<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></a>
+<a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!"></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!)](#) 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> -->
@@ -35,6 +36,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white)](#) -->
 
+[![](https://activity-graph.herokuapp.com/graph?username=panfluba&theme=material-palenight)](#)
+
 
 #### 📚 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffcd00.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -61,15 +64,6 @@
 
 #### 🎓 Education
 [![Codewars](https://img.shields.io/badge/Codewars-db5127?style=for-the-badge&logo=codewars&logoColor=white)](#)
-
-
-
-
-
-![](https://activity-graph.herokuapp.com/graph?username=panfluba&theme=material-palenight)
-
-
-
 
 
 
