@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hi there 👋 </h1> -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> <img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!">
+<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> <img src="https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!"></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!)](#) 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> -->
@@ -7,7 +7,7 @@
 <!-- Right table -->
 
 <table align="right" border="0">
-    <tr><td><img src="https://user-images.githubusercontent.com/91209785/191731626-31667f23-0a7e-4393-ade8-e3bd10826894.jpg" width="300"></a></td></tr>
+    <tr><td><a href="#"><img src="https://user-images.githubusercontent.com/91209785/191731626-31667f23-0a7e-4393-ade8-e3bd10826894.jpg" width="300"></a></td></tr>
     <tr><td><p align="center"> ☁️ Panfilova Lyubov ☁️ </p></td></tr>
     <tr><td><p align="center"> ☁️ 18 ☁️</td></tr>
     <tr><td><p align="center"> ☁️ Minsk, Belarus ☁️ </td></tr>
@@ -16,12 +16,12 @@
 <!-- Stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"></a>
 
 
 <!-- Links -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91209785/191745823-abda2fff-31ff-4ca7-8a15-d4cd2df7ba01.gif">
+<a href="#"><img src="https://user-images.githubusercontent.com/91209785/191745823-abda2fff-31ff-4ca7-8a15-d4cd2df7ba01.gif"></a>
 
 
 <p align="center">
