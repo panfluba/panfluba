@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=36&duration=6000&pause=1000&color=D481FF&background=4D23FF00&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you!)](#) 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-
+<!-- Right table -->
 
 <table align="right" border="0">
     <tr><td><img src="https://user-images.githubusercontent.com/91209785/191731626-31667f23-0a7e-4393-ade8-e3bd10826894.jpg" width="300"></a></td></tr>
@@ -12,19 +12,20 @@
     <tr><td><p align="center"> ☁️ Minsk, Belarus ☁️ </td></tr>
 </table>
 
+<!-- Stats -->
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+
+
 
 #### 📚 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffcd00.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![C++](https://img.shields.io/badge/c++-3765ab.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 
-
-
 #### 💻 Web
 [![HTML5](https://img.shields.io/badge/HTML5-e5632c?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-3ca3cf?style=for-the-badge&logo=css3&logoColor=white)](#)
-
 
 #### 🎨 Design
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%231976D2.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#)
