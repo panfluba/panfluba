@@ -17,6 +17,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#) 
 
 
 #### 📚 Languages
