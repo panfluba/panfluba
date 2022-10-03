@@ -17,7 +17,7 @@
 <!-- Stats -->
 
 <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight"><img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&count_private=true&include_all_commits=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"></a>
 
 
 <!-- Links -->
