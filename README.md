@@ -36,7 +36,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white)](#) -->
 
-[![](https://activity-graph.herokuapp.com/graph?username=panfluba&theme=material-palenight)](#)
+[![](https://activity-graph.herokuapp.com/graph?username=panfluba&count_private=true&include_all_commits=true&theme=material-palenight)](#)
 
 <!--#### 🎨 Design-->
 <p align="center">
