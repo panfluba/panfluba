@@ -18,8 +18,8 @@
 
 <p align="center">
     <a href="#">    
-            <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" width=430>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&count_private=true&include_all_commits=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" width=430>
+            <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" width=400>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&count_private=true&include_all_commits=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" width=400>
     </a>
 
 
@@ -84,9 +84,17 @@
 
 <!-- #### 🎓 Education -->
 <p align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/91209785/191903292-5b1e875f-fe51-49d2-b7f7-4322f73e8cbb.gif"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/91209785/191903292-5b1e875f-fe51-49d2-b7f7-4322f73e8cbb.gif" ></a>
 <a href="#"><img src="https://img.shields.io/badge/Rolling%20Scopes-ffcd00.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 <a href="https://www.codewars.com/users/panfluba"><img src="https://img.shields.io/badge/Codewars-%23E4405F?style=for-the-badge&logo=codewars&logoColor=white"></a>
+    
+<!-- #### 🎓 Operating systems -->
+<p align="center">
+<a href="#"><img src="https://user-images.githubusercontent.com/91209785/222978337-1bbc6c9e-ea9f-44ce-966f-00fc553fdfd2.gif" height="32"></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"></a>    
+<a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"></a>
+
 
    
    
