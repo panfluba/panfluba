@@ -84,6 +84,8 @@
 <p align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/91209785/191903292-5b1e875f-fe51-49d2-b7f7-4322f73e8cbb.gif"></a>
 <a href="https://www.codewars.com/users/panfluba"><img src="https://img.shields.io/badge/Codewars-%23E4405F?style=for-the-badge&logo=codewars&logoColor=white"></a>
+<a href="https://www.codewars.com/users/panfluba"><img src=" https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=Rolling%20Scopes&logoColor=black"></a>
+   
 <!-- <a href="#"><img src="#"></a> -->
 
 
