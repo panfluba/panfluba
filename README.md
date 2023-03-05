@@ -18,8 +18,8 @@
 
 <p align="center">
     <a href="#">    
-            <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&count_private=true&include_all_commits=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+            <img src="https://github-readme-stats.vercel.app/api?username=panfluba&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" width=430>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=panfluba&count_private=true&include_all_commits=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" width=430>
     </a>
 
 
