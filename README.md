@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lyubov-panfilova-55068b243/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lyubov-panfilova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/lubo0ow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.twitch.tv/balabonya"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 <a href="mailto:panfluba@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
