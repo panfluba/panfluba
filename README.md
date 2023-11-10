@@ -60,8 +60,8 @@
 <!-- #### 📚 Languages -->
 <p align="center">
     
-<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/91209785/191902318-64b373bb-876c-4a44-8e1b-e179a5b2fbd5.gif"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-ffcd00.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
